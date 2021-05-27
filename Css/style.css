@@ -20,7 +20,7 @@
     margin-bottom: 40px;
 }
 .navigation{
-    max-width: 1000px;
+    max-width: 1090px;
     margin: 0 auto;
 }
 .navigation p{
@@ -70,14 +70,15 @@
 /* three-section starts here */
 
 .three-section{
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
 }
 
 .add-border{
-  padding: 0px 10px;
+ 
   border-left: 1px solid grey;
   border-right: 1px solid grey;
+
 }
 
 .first-section{
@@ -132,7 +133,7 @@
 }
 
 .person-images{
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
     padding-bottom: 50px;
    
@@ -146,7 +147,7 @@
 }
 
 .person-left{
-    margin-left: 50px;
+    margin-left: 60px;
 }
 
 
@@ -186,7 +187,7 @@
 }
 
 .two-image{
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
     margin-top: 50px;
 }
@@ -195,7 +196,7 @@
     float: left;
 }
 .left-image img{
-    width: 50%;
+    width: 95%;
 }
 
 
@@ -215,7 +216,7 @@
     float: right;
 }
 .right-image img{
-    width: 50%;
+    width: 95%;
 }
 
 
@@ -230,7 +231,7 @@
 /* footer starts here */
 
 .footer{
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
     margin-top: 40px;
     border-top: 2px solid darkgrey;
